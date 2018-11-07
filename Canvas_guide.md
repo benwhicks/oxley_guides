@@ -47,6 +47,8 @@ The following terms are created each academic cycle (obviously the year changes 
 | 2019 Semester 1 | 2019S1 | Semester 1 courses | Jan to Jun |
 | 2019 Semester 2 | 2019S2 | Semester 2 courses | Jul to Dec |
 
+Any non-academic courses will fit into the _2019 K-10_ term, or either of the Semester terms, depending on what works best. Individual courses can have their run dates changed in their internal settings and this will overide any global setting.
+
 ## Courses
 
 The course codes from Edval / Edumate must be adjusted before performing a SIS upload. Course codes should be prepended with the year / term ID. For example _12MAT.O_ should become *2019_12MAT.O*. If this is not done the SIS ID for the course will conflict with previous years and you will get a whole bunch of errors with enrolments that are hard to understand. 

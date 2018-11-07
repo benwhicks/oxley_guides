@@ -58,3 +58,10 @@ The course codes from Edval / Edumate must be adjusted before performing a SIS u
 ## Enrolments
 
 Enrolments can be managed by teachers, and if added manually by teachers in each individual course they then have the ability to remove students as well. If students are enrolled through the SIS Import then teachers can add students but only Admins (CL's and Canvas admins) can remove students. Note that whatever changes you make to the course codes when you create the courses you will need to replicate here before importing students. 
+
+## Audits
+
+Performing an audit of courses once a term is a great idea, if possible. These easiest way is to open a year groups worth of courses in seperate tabs and check the following:
+
+* Published and home page correct and the Navigation Menu correct, then go to
+* Assignements and check for Assessment Notifications in the right place and format

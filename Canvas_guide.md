@@ -21,6 +21,8 @@ Teachers use the following format:
 
 The key sub accounts are the academic areas (Curriculum Teams). If a staff member is a member of a Curriculum Team they also need to be added as an *Admin* to that Sub-Account, with the role *Department Member*. Curriculum Leaders should be added as and *Admin* to that Sub-Account with the role *Admin*. 
 
+Some teachers are also Admins for the global account (Oxley College) with the _Stalker_ role. This means that they can view everything in the school but not edit - handy for heads of house and learning support.  
+
 ### Sub-Account Names for SIS import
 
 When performing a SIS import the following are the SIS ID's for the relevant Sub-Accounts:

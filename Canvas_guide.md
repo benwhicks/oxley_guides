@@ -57,7 +57,7 @@ The course codes from Edval / Edumate must be adjusted before performing a SIS u
 
 ## Sections
 
-Some Canvas courses will comprise of several classes. The ID for the Section will be the full Edval code with prepended year (e.g. *2019_9MAT.O*) and the course will omit the *.O* (e.g. *2019_9MAT*). Some senior courses will run this model (ask CL's for their preference), and the current **junior classes** that use this are:
+Some Canvas courses will comprise of several classes. The ID for the Section will be the full Edval code with prepended year (e.g. *2019_9MAT.O*) and the course will omit the *.O* (e.g. *2019_9MAT*). Some senior courses will run this model (ask CL's for their preference), and the current **7 - 10** that use this are:
 
 * Geography
 * History

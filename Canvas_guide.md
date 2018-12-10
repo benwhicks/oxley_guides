@@ -55,6 +55,16 @@ Any non-academic courses will fit into the _2019 K-10_ term, or either of the Se
 
 The course codes from Edval / Edumate must be adjusted before performing a SIS upload. Course codes should be prepended with the year / term ID. For example _12MAT.O_ should become *2019_12MAT.O*. If this is not done the SIS ID for the course will conflict with previous years and you will get a whole bunch of errors with enrolments that are hard to understand. 
 
+## Sections
+
+Some Canvas courses will comprise of several classes. The ID for the Section will be the full Edval code with prepended year (e.g. *2019_9MAT.O*) and the course will omit the *.O* (e.g. *2019_9MAT*). Some senior courses will run this model (ask CL's for their preference), and the current **junior classes** that use this are:
+
+* Geography
+* History
+* PDHPE
+* Mathematics
+* Global Studies
+
 ## Enrolments
 
 Enrolments can be managed by teachers, and if added manually by teachers in each individual course they then have the ability to remove students as well. If students are enrolled through the SIS Import then teachers can add students but only Admins (CL's and Canvas admins) can remove students. Note that whatever changes you make to the course codes when you create the courses you will need to replicate here before importing students. 

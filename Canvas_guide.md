@@ -35,6 +35,7 @@ When performing a SIS import the following are the SIS ID's for the relevant Sub
 | Humanities | SubAcc_Humanities |
 | Arts | SubAcc_Arts |
 | Super Team | SubAcc_SuperTeam |
+| Cornerstone | SubAcc_Cornerstone |
 
 
 ## Terms
